@@ -45,7 +45,7 @@ To develop a reliable classification model that can assist in early detection of
 ---
 
 ## 📊 Results
-- Achieved accuracy: **XX%** (replace with your actual result)  
+- Achieved accuracy: 85% (replace with your actual result)  
 - Model successfully classifies tumors with high reliability  
 
 ---
