@@ -51,4 +51,8 @@ To develop a reliable classification model that can assist in early detection of
 ---
 
 ## 💾 Model Saving
-The trained model is saved using pickle:
+The trained model is saved using pickle as:
+
+breast_cancer_model.pkl
+
+This allows the model to be reused without retraining.
